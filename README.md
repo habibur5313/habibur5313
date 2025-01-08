@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning  next.js, mongoDB exploring other backend technology.<br>🎯 Goals:  Becoming a senior Full-Stack Developer within the next 1 year.<br>🎲 Fun fact: I like eror.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning  next.js, mongoDB exploring other backend technology.<br>🎯 Goals:  Becoming a senior Full-Stack Developer within the next 1 year.<br>🎲 Fun fact: I like error.</p>
 
 ###
 
