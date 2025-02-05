@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">My Stats</h3>
+## :chart_with_upwards_trend:My Stats
 
 ###
 
