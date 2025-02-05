@@ -12,13 +12,14 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👳‍♂️About me</h2>
 
 ###
 
 <p align='left'>
   Hello! I'm a passionate and dedicated Web Developer from Sylhet, Bangladesh. I have experience with technologies like React, JavaScript, HTML, CSS, Tailwind CSS, MongoDB, Express, Node.js, Next.js, Firebase etc. I love playing cricket and badminton in my free time. As a fresher, I'm eager to learn and improve my skills. Although my English isn't perfect, I'm always working on getting better. Check out my projects on GitHub, and feel free to connect with me on LinkedIn or via email. Let's build something amazing together! 🚀
 </p>
+
 ###
 
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning  next.js, mongoDB exploring other backend technology.<br>🎯 Goals:  Becoming a senior Full-Stack Developer within the next 1 year.<br>🎲 Fun fact: I like error.</p>
