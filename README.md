@@ -68,7 +68,7 @@
     <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png" alt="Twitter">
   </a>
 </p>
-<p align='center>phone: +880 160 317 1796</p>
+<p align='center'> phone: +880 160 317 1796 </p>
 
 <br />
 
