@@ -80,8 +80,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibur5313&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/habibur5313/habibur5313/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=habibur5313&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ###
