@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://i.ibb.co.com/rRTVSBhg/habibur-rahman-github-and-linkdin-cover.png"  />
+  <img  src="https://i.ibb.co.com/yB62XXcv/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-2.png"  />
 </div>
 
 ###
