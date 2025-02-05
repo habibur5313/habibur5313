@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">I am a Front-End Developer</h4>
+<h4 align="left">I am a Web Developer</h4>
 
 ###
 
