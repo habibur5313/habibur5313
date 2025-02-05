@@ -55,12 +55,17 @@
 ## :mailbox: Reach me out
 
 <br />
- **[Grand Sultal Live Website](https://grand-sultan-building-management-web.surge.sh/)**  
 <p align="center">
-  [Grand Sultal Live Website](https://grand-sultan-building-management-web.surge.sh/)
-[<img height="75" src='https://i.ibb.co.com/d46WvccQ/Linkedin.png'/>](https://www.facebook.com/habibur5231
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"/>](https://www.facebook.com/habibur5231)
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"/>](https://x.com/MdHabibur241685)**</p>
+  <a href="https://www.linkedin.com/in/habibur5231" target="_blank">
+    <img height="75" src="https://i.ibb.co.com/d46WvccQ/Linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/habibur5231" target="_blank">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" alt="Facebook">
+  </a>
+  <a href="https://x.com/MdHabibur241685" target="_blank">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png" alt="Twitter">
+  </a>
+</p>
 
 <br />
 
