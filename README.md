@@ -78,8 +78,6 @@
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 <p align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=habibur5313'/>
-  <img src='https://github-readme-stats.vercel.app/api?username=habibur5313'/>
   <img src='https://github-readme-stats.vercel.app/api?username=habibur5313&show_icons=true&theme=radical'/>
 </p>
 
