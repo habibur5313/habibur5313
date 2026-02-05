@@ -1,13 +1,9 @@
 <div align="center">
   <a href="https://habiburrahman-portfolio.vercel.app" target="_blank">
-    <img 
-      src="https://res.cloudinary.com/dcp9nk3bs/image/upload/v1770284006/Md_Habibur_Rahman_1_ylfp5u.png"
-      alt="Md Habibur Rahman"
-      width="250"
-      style="border-radius: 12px;"
-    />
+    <img src="https://res.cloudinary.com/dcp9nk3bs/image/upload/v1770284006/Md_Habibur_Rahman_1_ylfp5u.png" alt="Md Habibur Rahman" />
   </a>
 </div>
+
 
 
 ###
